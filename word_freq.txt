@@ -1,0 +1,40 @@
+The word 'حلول' is repeated -> 99
+-------------------- 
+The word 'انتهت' is repeated -> 46
+-------------------- 
+The word 'الأرض' is repeated -> 36
+-------------------- 
+The word 'الارض' is repeated -> 34
+-------------------- 
+The word 'متروك' is repeated -> 33
+-------------------- 
+The word 'RT' is repeated -> 24
+-------------------- 
+The word 'السماء' is repeated -> 23
+-------------------- 
+The word 'الأمر' is repeated -> 20
+-------------------- 
+The word 'الأرض،' is repeated -> 19
+-------------------- 
+The word 'الله' is repeated -> 17
+-------------------- 
+The word 'من' is repeated -> 17
+-------------------- 
+The word 'الوباء' is repeated -> 16
+-------------------- 
+The word 'حُلول' is repeated -> 15
+-------------------- 
+The word 'في' is repeated -> 15
+-------------------- 
+The word 'عنا' is repeated -> 14
+-------------------- 
+The word 'الامر' is repeated -> 13
+-------------------- 
+The word 'الأمرُ' is repeated -> 12
+-------------------- 
+The word '..' is repeated -> 12
+-------------------- 
+The word 'يارب' is repeated -> 12
+-------------------- 
+The word 'ما' is repeated -> 12
+-------------------- 
